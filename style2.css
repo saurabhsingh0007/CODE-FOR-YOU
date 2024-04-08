@@ -1,0 +1,65 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(task2.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.header
+{
+    display: flex;
+    width: 100%;
+    height: 10vh;
+    background-color: cornflowerblue;
+    padding:25px 0px 0px 50%;
+}
+.header a
+{
+    padding-left: 80px;
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+.main
+{
+    width: 100%;
+    height: 595px;
+    padding: 0px 0px 0px 73%;
+}
+#logo
+{
+    width: 180px;
+    height:180px;
+    border: solid 5px black;
+}
+.footer
+{
+    display: flex;
+    width: 100%;
+    height: 10vh;
+    background-color:cornflowerblue; ;
+}
+#whatsapp
+{
+    padding: 20px 0px 0px 25%;
+    font-size: 30px;
+}
+#linkdin
+{
+    padding: 20px 0px 0px 25%;
+    font-size: 30px;
+}
+#twiter
+{
+    font-size: 30px;
+    padding: 20px 0px 0px 2%;
+}
+#insta
+{
+    font-size: 30px;
+    padding: 20px 0px 0px 2%;
+}
