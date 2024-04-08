@@ -1,0 +1,74 @@
+* 
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+    background-image: url(intern3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar
+{
+    width: 100%;
+    height:80px;
+    background-color: black;
+    color: white;
+}
+a{
+    padding:50px;
+    justify-content: center;
+    text-decoration: none ;
+    color: white ;
+    font-size: 25px;
+}
+.maincontent
+{
+    display: flex;
+}
+h2
+{
+    color:rgb(163, 212, 26);
+    font-size: 60px;
+    margin: 75px 0px 0px 250px;
+}
+span
+{
+    color: rgb(242, 18, 18);
+    
+}
+.name
+{
+    font-size: 50px;
+    padding-left: 50px;
+}
+#logo1
+{
+    height:300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 500px;
+    margin-top: 20px;
+    border: rgb(96, 8, 228) solid 2px;
+}
+#pragraph
+{
+    display: flex;
+    width: 800px;
+    font-size: 25px;
+    padding-left: 30px;
+    color: rgb(216, 223, 5);
+}
+.p1
+{
+    padding-left: 30px;
+    font-size: 30px;
+}
+.p2
+{
+    padding-left: 30px;
+    font-size: 30px;
+}
